@@ -103,6 +103,10 @@ KnowledgeEdge — where curiosity meets clarity, and learning finds its edge.
 **Tech:** React, Node.js, Express, MongoDB  
 [🔗 View Repository](https://github.com/nishatjahan62/Knowledge-Edge-project)
 
+### 🍽️ GroveGardener
+GroveGardener — Cultivating Connections Through Green Wisdom
+**Tech:** React, Node.js, Express, MongoDB  
+[🔗 View Repository](https://github.com/nishatjahan62/Grove-Gardener-project)
 
 ---
 
