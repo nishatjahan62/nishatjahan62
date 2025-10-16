@@ -96,12 +96,13 @@ I focus on creating responsive UIs, efficient APIs, and meaningful user experien
 ### 🍽️ Donate-A-Bite
 A community-driven app to reduce food waste by connecting restaurants, charities, and users.  
 **Tech:** React, Node.js, Express, MongoDB  
-[🔗 View Repository](https://github.com/nishatjahan62/Donate-A-Bite)
+[🔗 View Repository](https://github.com/nishatjahan62/Donate-a-bite-project)
 
-### 💬 ChatEase
-A simple real-time chat web app with user authentication.  
-**Tech:** React, Socket.io, Node.js  
-[🔗 View Repository](https://github.com/nishatjahan62/ChatEase)
+### 🍽️ KnowledgeEdge
+KnowledgeEdge — where curiosity meets clarity, and learning finds its edge.
+**Tech:** React, Node.js, Express, MongoDB  
+[🔗 View Repository](https://github.com/nishatjahan62/Knowledge-Edge-project)
+
 
 ---
 
