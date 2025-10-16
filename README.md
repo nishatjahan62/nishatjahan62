@@ -51,6 +51,22 @@ I build responsive and efficient web applications, focusing on seamless UI and m
 
 ---
 
+## 🤝 Connect With Me
+
+<p align="center" style="margin-top: 10px;">
+  <a href="https://github.com/nishatjahan62" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://facebook.com" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💡 Frontend
@@ -121,16 +137,4 @@ GroveGardener — Cultivating Connections Through Green Wisdom
   
 
 ---
-
-<h3 align="center"> 🤝 Connect With Me </h3>
-
-<p align="center">
-  <a href="https://github.com/nishatjahan62" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="mailto:nishatjahanposhpa@gmail.com" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Email-Me-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
-  </a>
-</p>
-
 <p align="center">✨ Let's build something great together! ✨</p>
