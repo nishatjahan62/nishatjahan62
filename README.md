@@ -1,22 +1,24 @@
-<div align="center">
-  <img src="https://i.ibb.co.com/RTpLpP6v/image.png" alt="Banner" width="100%" style="border-radius:12px;"/>
-</div>
+<!-- Banner Section -->
+<p align="center">
+  <img src="https://i.ibb.co.com/RTpLpP6v/image.png" alt="Banner" width="100%" style="border-radius:10px;"/>
+</p>
 
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=2000&color=A855F7&center=true&vCenter=true&width=500&lines Hi, I'm<span style="color:#00BFFF;"><b>Nishat Jahan</b></span👋" alt="Nishat Jahan" />
-</div>
-
-<h3 align="center">✨ Junior Full-Stack Web Developer · Bangladesh ✨</h3>
-<p align="center">📫 nishatjahanposhpa@gmail.com</p>
+<!-- Name & Title -->
+<h2 align="center">
+  Hi, I'm <span style="color:#00BFFF;"><b>Nishat Jahan</b></span> 👋
+</h2>
+<h3 align="center">
+  A passionate <span style="color:#ff6600;"><b>Junior Full-Stack Web Developer</b></span> 
+</h3>
+<p align="center" style="font-size:18px;">
+  🌍 Based in <b>Bangladesh</b> <br/>
+  📫 Reach me at <b>nishatjahanposhpa@gmail.com</b>
+</p>
 
 <!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nishatjahan62&label=Profile%20Views&color=0e75b6&style=flat" alt="nishatjahan62" />
 </p>
-
-<br/>
 
 <!-- Trophy Section -->
 <p align="center">
@@ -25,48 +27,45 @@
   </a>
 </p>
 
-<br/>
+<!-- Contact Buttons -->
+<p align="center" style="margin-top:15px;">
+  <a href="mailto:nishatjahanposhpa@gmail.com" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/nishatjahan62" style="margin: 0 8px;">
+    <img src="https://img.shields.io/github/followers/nishatjahan62?label=Follow&style=for-the-badge"/>
+  </a>
+</p>
+
 
 ---
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Nishat Jahan**, a passionate **Junior Full-Stack Web Developer** from Bangladesh.  
-I build responsive and efficient web applications with a focus on seamless UI and meaningful user experiences.
+Hi! I’m **Nishat Jahan**, a passionate **Junior Full-Stack Web Developer**.  
+I build responsive and efficient web applications, focusing on seamless UI and meaningful user experience.  
 
-- 🌱 Currently learning **TypeScript**
-- 🚀 Dreaming to work on impactful real-world projects
-- 🤝 Open to collaborations and freelance opportunities
-- 💡 Always curious, always building
+🌱 Currently exploring **TypeScript** and **Next.js**  
+🚀 Dreaming to work on impactful real-world projects  
+🤝 Open to collaborations and freelance opportunities  
 
 ---
 
 ## 🤝 Connect With Me
 
-<div align="center">
-
-<a href="https://github.com/nishatjahan62">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25" alt="GitHub"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://facebook.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="25" alt="Facebook"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:nishatjahanposhpa@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="25" alt="Email"/>
-</a>
-
-</div>
+<p align="center" style="margin-top: 10px;">
+  <a href="https://github.com/nishatjahan62" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://facebook.com" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
+  </a>
+</p>
 
 ---
-
-## 🛠️ Tech Stack
-
 
 ## 🛠️ Tech Stack
 
@@ -76,6 +75,7 @@ I build responsive and efficient web applications with a focus on seamless UI an
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" style="margin:  7px;"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" style="margin:  7px;"/>
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" style="margin:  7px;"/>
+   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=nextjs&logoColor=white" style="margin:  7px;"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" style="margin:  7px;"/>
 </p>
 
@@ -94,67 +94,50 @@ I build responsive and efficient web applications with a focus on seamless UI an
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" style="margin:  7px;"/>
 </p>
 
-
-
-
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishatjahan62&show_icons=true&theme=tokyonight&border_radius=10" height="160"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishatjahan62&layout=compact&theme=tokyonight&border_radius=10" height="160"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishatjahan62&theme=tokyonight&border_radius=10" height="160"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nishatjahan62&show_icons=true&theme=tokyonight" height="150" style="margin: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishatjahan62&layout=compact&theme=tokyonight" height="150" style="margin: 10px;"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🍽️ Donate-A-Bite
-> A community-driven app to reduce food waste by connecting restaurants, charities, and users.
-
-**Tech Stack:** React · Node.js · Express · MongoDB  
+A community-driven app to reduce food waste by connecting restaurants, charities, and users.  
+**Tech:** React, Node.js, Express, MongoDB  
 [🔗 View Repository](https://github.com/nishatjahan62/Donate-a-bite-project)
 
----
-
-### 🌙 Noor-e-Ramadan — নূরে রমজান
-> A full-stack Ramadan companion app — Sehri/Iftar timings, Duas, Recipes, and personal dashboard for the Muslim community of Bangladesh.
-
-**Tech Stack:** Next.js 15 · MongoDB Atlas · Tailwind CSS 
-[🔗 View Repository](https://github.com/nishatjahan62/noor-e-ramadan)
-
----
+ ### 🌙 Noor-e-Ramadan — নূরে রমজান
+A full-stack Ramadan companion app — Sehri/Iftar timings, Duas, Recipes, and personal dashboard for the Muslim community of Bangladesh.
+Tech Stack: Next.js 15 · MongoDB Atlas · Tailwind CSS · Framer Motion · NextAuth.js
+[🔗 View Repository](https://github.com/nishatjahan62/Noor-A-Ramadan)
 
 ### 📚 KnowledgeEdge
-> Where curiosity meets clarity, and learning finds its edge.
-
-**Tech Stack:** React · Node.js · Express · MongoDB  
+KnowledgeEdge — where curiosity meets clarity, and learning finds its edge.
+**Tech:** React, Node.js, Express, MongoDB  
 [🔗 View Repository](https://github.com/nishatjahan62/Knowledge-Edge-project)
 
 
----
-
-## 🌱 Currently Learning
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=typescript" width="20"/>TypeScript
-<img src="https://skillicons.dev/icons?i=figma" width="20"/>Figma
-</div>
-
-- 🔷 Deep diving into **TypeScript**
-- 🛍️ Developing a **Marketplace Website**
-- 🔌 Learning **REST API best practices**
-- 🎨 Enhancing **UI/UX designs with Figma**
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Let's+build+something+great+together!+✨;Open+to+collaborations+%26+freelance+🤝;Always+learning%2C+always+growing+🌱" alt="Typing SVG" />
-</div>
+## 🌟 Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,nextjs,figma&theme=light" />
+</p>
+
+### 🌱 Currently Working On
+- Exploring  **TypeScript**
+- Developing a **Marketplace Website**
+- Learning **REST API best practices**
+- Enhancing **UI/UX designs using Figma**
+  
+
+---
+<p align="center">✨ Let's build something great together! ✨</p>
