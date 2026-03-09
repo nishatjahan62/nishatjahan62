@@ -67,23 +67,35 @@ I build responsive and efficient web applications with a focus on seamless UI an
 
 ## 🛠️ Tech Stack
 
-### 💡 Frontend
 
-<div align="left" width="10" >
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" width="20" />
-</div>
+## 🛠️ Tech Stack
+
+### 💡 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" style="margin: 7px;"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" style="margin:  7px;"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" style="margin:  7px;"/>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" style="margin:  7px;"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" style="margin:  7px;"/>
+</p>
 
 ### ⚙️ Backend
-
-<div align="left" width="10">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" width="20" />
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" style="margin:  7px;"/>
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" style="margin:  7px;"/>
+</p>
 
 ### 🗄️ Database & Tools
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" style="margin:  7px;"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" style="margin:  7px;"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" style="margin:  7px;"/>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?logo=visualstudiocode&logoColor=white" style="margin:  7px;"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" style="margin:  7px;"/>
+</p>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,figma" width="20" />
-</div>
+
+
 
 ---
 
@@ -130,13 +142,10 @@ I build responsive and efficient web applications with a focus on seamless UI an
 
 ## 🌱 Currently Learning
 
-<div align="center">
+<div align="left">
 
-<img src="https://skillicons.dev/icons?i=typescript" width="20"/><br/>TypeScript
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=figma" width="20"/><br/>Figma
+<img src="https://skillicons.dev/icons?i=typescript" width="20"/>TypeScript
+<img src="https://skillicons.dev/icons?i=figma" width="20"/>Figma
 </div>
 
 - 🔷 Deep diving into **TypeScript**
