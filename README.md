@@ -68,17 +68,21 @@ I build responsive and efficient web applications with a focus on seamless UI an
 ## 🛠️ Tech Stack
 
 ### 💡 Frontend
+
 <div align="left" width="10" >
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" width="20" />
 </div>
 
 ### ⚙️ Backend
+
 <div align="left" width="10">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" width="20" />
 </div>
+
 ### 🗄️ Database & Tools
-<div align="left" width="10">
-  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,figma" />
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,figma" width="20" />
 </div>
 
 ---
@@ -128,12 +132,11 @@ I build responsive and efficient web applications with a focus on seamless UI an
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=typescript" width="48"/><br/>TypeScript
+<img src="https://skillicons.dev/icons?i=typescript" width="20"/><br/>TypeScript
 
-<br/><br/>
+<br/>
 
-<img src="https://skillicons.dev/icons?i=figma" width="48"/><br/>Figma
-
+<img src="https://skillicons.dev/icons?i=figma" width="20"/><br/>Figma
 </div>
 
 - 🔷 Deep diving into **TypeScript**
