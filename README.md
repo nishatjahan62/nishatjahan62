@@ -5,23 +5,25 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=2000&color=A855F7&center=true&vCenter=true&width=500&lines=Nishat+Jahan" alt="Nishat Jahan" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=2000&color=A855F7&center=true&vCenter=true&width=500&lines Hi, I'm<span style="color:#00BFFF;"><b>Nishat Jahan</b></span👋" alt="Nishat Jahan" />
 </div>
 
-<h3 align="center">✨ Junior Full-Stack Web Developer · Bangladesh 🇧🇩 ✨</h3>
+<h3 align="center">✨ Junior Full-Stack Web Developer · Bangladesh ✨</h3>
 <p align="center">📫 nishatjahanposhpa@gmail.com</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nishatjahan62&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</div>
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nishatjahan62&label=Profile%20Views&color=0e75b6&style=flat" alt="nishatjahan62" />
+</p>
 
 <br/>
 
-<div align="center">
+<!-- Trophy Section -->
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nishatjahan62&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true&column=4" alt="Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=nishatjahan62&theme=tokyonight&margin-w=15&margin-h=15" alt="nishatjahan62 trophies"/>
   </a>
-</div>
+</p>
 
 <br/>
 
@@ -44,19 +46,19 @@ I build responsive and efficient web applications with a focus on seamless UI an
 <div align="center">
 
 <a href="https://github.com/nishatjahan62">
-  <img src="https://skillicons.dev/icons?i=github" width="60" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" alt="GitHub"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="60" alt="LinkedIn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://facebook.com">
-  <img src="https://img.shields.io/badge/--%231877F2?style=flat-square&logo=facebook&logoColor=white" height="60" alt="Facebook"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="60" alt="Facebook"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:nishatjahanposhpa@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="60" alt="Email"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="60" alt="Email"/>
 </a>
 
 </div>
@@ -65,9 +67,32 @@ I build responsive and efficient web applications with a focus on seamless UI an
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,figma" />
-</div>
+
+## 🛠️ Tech Stack
+
+### 💡 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" style="margin: 7px;"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" style="margin:  7px;"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" style="margin:  7px;"/>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" style="margin:  7px;"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" style="margin:  7px;"/>
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" style="margin:  7px;"/>
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" style="margin:  7px;"/>
+</p>
+
+### 🗄️ Database & Tools
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" style="margin:  7px;"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" style="margin:  7px;"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" style="margin:  7px;"/>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?logo=visualstudiocode&logoColor=white" style="margin:  7px;"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" style="margin:  7px;"/>
+</p>
 
 ---
 
@@ -98,7 +123,7 @@ I build responsive and efficient web applications with a focus on seamless UI an
 ### 🌙 Noor-e-Ramadan — নূরে রমজান
 > A full-stack Ramadan companion app — Sehri/Iftar timings, Duas, Recipes, and personal dashboard for the Muslim community of Bangladesh.
 
-**Tech Stack:** Next.js 15 · MongoDB Atlas · Tailwind CSS · Framer Motion · NextAuth.js  
+**Tech Stack:** Next.js 15 · MongoDB Atlas · Tailwind CSS 
 [🔗 View Repository](https://github.com/nishatjahan62/noor-e-ramadan)
 
 ---
@@ -109,13 +134,6 @@ I build responsive and efficient web applications with a focus on seamless UI an
 **Tech Stack:** React · Node.js · Express · MongoDB  
 [🔗 View Repository](https://github.com/nishatjahan62/Knowledge-Edge-project)
 
----
-
-### 🌿 GroveGardener
-> Cultivating connections through green wisdom.
-
-**Tech Stack:** React · Node.js · Express · MongoDB  
-[🔗 View Repository](https://github.com/nishatjahan62/Grove-Gardener-project)
 
 ---
 
