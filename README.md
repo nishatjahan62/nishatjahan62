@@ -5,10 +5,11 @@
 <br/>
 
 <div align="center">
-  <h1>Hi, I'm <b>Nishat Jahan</b> 👋</h1>
-  <h3>✨ Junior Full-Stack Web Developer · Bangladesh 🇧🇩 ✨</h3>
-  <p>📫 nishatjahanposhpa@gmail.com</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nishat+Jahan+%F0%9F%91%8B;Junior+Full-Stack+Developer;Building+for+the+Web+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
+
+<h3 align="center">✨ Junior Full-Stack Web Developer · Bangladesh 🇧🇩 ✨</h3>
+<p align="center">📫 nishatjahanposhpa@gmail.com</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nishatjahan62&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -18,7 +19,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nishatjahan62&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true" alt="Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=nishatjahan62&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true&column=4" alt="Trophies"/>
   </a>
 </div>
 
@@ -43,19 +44,19 @@ I build responsive and efficient web applications with a focus on seamless UI an
 <div align="center">
 
 <a href="https://github.com/nishatjahan62">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://facebook.com">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&logoWidth=40" height="48" alt="Facebook"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:nishatjahanposhpa@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email"/>
 </a>
 
 </div>
@@ -64,30 +65,57 @@ I build responsive and efficient web applications with a focus on seamless UI an
 
 ## 🛠️ Tech Stack
 
-### 💡 Frontend
-
 <div align="center">
 
-| <img src="https://skillicons.dev/icons?i=html" width="48"/><br/>HTML5 | <img src="https://skillicons.dev/icons?i=css" width="48"/><br/>CSS3 | <img src="https://skillicons.dev/icons?i=js" width="48"/><br/>JavaScript | <img src="https://skillicons.dev/icons?i=react" width="48"/><br/>React | <img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>Tailwind | <img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br/>Next.js |
-|:---:|:---:|:---:|:---:|:---:|:---:|
+<img src="https://skillicons.dev/icons?i=html" width="48"/><br/>HTML5
 
-</div>
+<br/><br/>
 
-### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=css" width="48"/><br/>CSS3
 
-<div align="center">
+<br/><br/>
 
-| <img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>Node.js | <img src="https://skillicons.dev/icons?i=express" width="48"/><br/>Express.js |
-|:---:|:---:|
+<img src="https://skillicons.dev/icons?i=js" width="48"/><br/>JavaScript
 
-</div>
+<br/><br/>
 
-### 🗄️ Database & Tools
+<img src="https://skillicons.dev/icons?i=react" width="48"/><br/>React
 
-<div align="center">
+<br/><br/>
 
-| <img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/>MongoDB | <img src="https://skillicons.dev/icons?i=git" width="48"/><br/>Git | <img src="https://skillicons.dev/icons?i=github" width="48"/><br/>GitHub | <img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/>VS Code | <img src="https://skillicons.dev/icons?i=figma" width="48"/><br/>Figma |
-|:---:|:---:|:---:|:---:|:---:|
+<img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br/>Next.js
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>Tailwind CSS
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>Node.js
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=express" width="48"/><br/>Express.js
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/>MongoDB
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br/>Git
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=github" width="48"/><br/>GitHub
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/>VS Code
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=figma" width="48"/><br/>Figma
 
 </div>
 
@@ -117,7 +145,7 @@ I build responsive and efficient web applications with a focus on seamless UI an
 
 ---
 
-### 🌙 Noor-e-Ramadan 
+### 🌙 Noor-e-Ramadan — নূরে রমজান
 > A full-stack Ramadan companion app — Sehri/Iftar timings, Duas, Recipes, and personal dashboard for the Muslim community of Bangladesh.
 
 **Tech Stack:** Next.js 15 · MongoDB Atlas · Tailwind CSS · Framer Motion · NextAuth.js  
@@ -145,13 +173,16 @@ I build responsive and efficient web applications with a focus on seamless UI an
 
 <div align="center">
 
-| <img src="https://skillicons.dev/icons?i=typescript" width="48"/> <br/> TypeScript | <img src="https://skillicons.dev/icons?i=figma" width="48"/><br/>Figma |
-|:---:|:---:|
+<img src="https://skillicons.dev/icons?i=typescript" width="48"/><br/>TypeScript
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=figma" width="48"/><br/>Figma
 
 </div>
 
 - 🔷 Deep diving into **TypeScript**
-- 🏖️ Developing a **Tourism Website**
+- 🛍️ Developing a **Marketplace Website**
 - 🔌 Learning **REST API best practices**
 - 🎨 Enhancing **UI/UX designs with Figma**
 
