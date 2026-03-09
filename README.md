@@ -44,19 +44,19 @@ I build responsive and efficient web applications with a focus on seamless UI an
 <div align="center">
 
 <a href="https://github.com/nishatjahan62">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" alt="GitHub"/>
+  <img src="https://img.icons8.com/ios-filled/60/ffffff/github.png" width="30" alt="GitHub"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" alt="LinkedIn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://facebook.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="60" alt="Facebook"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30" alt="Facebook"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:nishatjahanposhpa@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="60" alt="Email"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" alt="Email"/>
 </a>
 
 </div>
