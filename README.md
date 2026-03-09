@@ -152,6 +152,5 @@ I build responsive and efficient web applications with a focus on seamless UI an
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Let's+build+something+great+together!+✨;Open+to+collaborations+%26+freelance+🤝;Always+learning%2C+always+growing+🌱" alt="Typing SVG" />
-</div>
+---
+<p align="center">✨ Let's build something great together! 🤝 </p>
