@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=2000&color=A855F7&center=true&vCenter=true&width=500&lines=Nishat+Jahan" alt="Nishat Jahan" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Nishat+Jahan" alt="Nishat Jahan" />
 </div>
 
 <h3 align="center">✨ Junior Full-Stack Web Developer · Bangladesh 🇧🇩 ✨</h3>
@@ -44,7 +44,7 @@ I build responsive and efficient web applications with a focus on seamless UI an
 <div align="center">
 
 <a href="https://github.com/nishatjahan62">
-  <img src="https://img.icons8.com/fluency/60/github.png" width="60" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" alt="GitHub"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com">
@@ -65,8 +65,26 @@ I build responsive and efficient web applications with a focus on seamless UI an
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,figma" />
+**💡 Frontend**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</div>
+
+<br/>
+
+**⚙️ Backend**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</div>
+
+<br/>
+
+**🗄️ Database & Tools**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,figma" />
 </div>
 
 ---
@@ -109,20 +127,23 @@ I build responsive and efficient web applications with a focus on seamless UI an
 **Tech Stack:** React · Node.js · Express · MongoDB  
 [🔗 View Repository](https://github.com/nishatjahan62/Knowledge-Edge-project)
 
+---
+
+### 🌿 GroveGardener
+> Cultivating connections through green wisdom.
+
+**Tech Stack:** React · Node.js · Express · MongoDB  
+[🔗 View Repository](https://github.com/nishatjahan62/Grove-Gardener-project)
 
 ---
 
 ## 🌱 Currently Learning
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=typescript" width="48"/><br/>TypeScript
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=figma" width="48"/><br/>Figma
-
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=typescript,figma" />
 </div>
+
+<br/>
 
 - 🔷 Deep diving into **TypeScript**
 - 🛍️ Developing a **Marketplace Website**
@@ -132,5 +153,5 @@ I build responsive and efficient web applications with a focus on seamless UI an
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Let's+build+something+great+together!+✨;Open+to+collaborations+%26+freelance+🤝;Always+learning%2C+always+growing+🌱" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Let's+build+something+great+together!+✨;Open+to+collaborations+%26+freelance+🤝;Always+learning%2C+always+growing+🌱" alt="Typing SVG" />
 </div>
