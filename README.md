@@ -31,7 +31,7 @@
 Hi! I'm **Nishat Jahan**, a passionate **Junior Full-Stack Web Developer** from Bangladesh.  
 I build responsive and efficient web applications with a focus on seamless UI and meaningful user experiences.
 
-- 🌱 Currently learning **TypeScript** & **Next.js**
+- 🌱 Currently learning **TypeScript**
 - 🚀 Dreaming to work on impactful real-world projects
 - 🤝 Open to collaborations and freelance opportunities
 - 💡 Always curious, always building
@@ -42,10 +42,21 @@ I build responsive and efficient web applications with a focus on seamless UI an
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nishatjahan62)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishatjahanposhpa@gmail.com)
+<a href="https://github.com/nishatjahan62">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://facebook.com">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+&nbsp;
+<a href="mailto:nishatjahanposhpa@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
@@ -57,11 +68,8 @@ I build responsive and efficient web applications with a focus on seamless UI an
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+| <img src="https://skillicons.dev/icons?i=html" width="48"/><br/>HTML5 | <img src="https://skillicons.dev/icons?i=css" width="48"/><br/>CSS3 | <img src="https://skillicons.dev/icons?i=js" width="48"/><br/>JavaScript | <img src="https://skillicons.dev/icons?i=react" width="48"/><br/>React | <img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>Tailwind | <img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br/>Next.js |
+|:---:|:---:|:---:|:---:|:---:|:---:|
 
 </div>
 
@@ -69,8 +77,8 @@ I build responsive and efficient web applications with a focus on seamless UI an
 
 <div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+| <img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>Node.js | <img src="https://skillicons.dev/icons?i=express" width="48"/><br/>Express.js |
+|:---:|:---:|
 
 </div>
 
@@ -78,11 +86,8 @@ I build responsive and efficient web applications with a focus on seamless UI an
 
 <div align="center">
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+| <img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/>MongoDB | <img src="https://skillicons.dev/icons?i=git" width="48"/><br/>Git | <img src="https://skillicons.dev/icons?i=github" width="48"/><br/>GitHub | <img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/>VS Code | <img src="https://skillicons.dev/icons?i=figma" width="48"/><br/>Figma |
+|:---:|:---:|:---:|:---:|:---:|
 
 </div>
 
@@ -112,11 +117,11 @@ I build responsive and efficient web applications with a focus on seamless UI an
 
 ---
 
-### 🌙 Noor-e-Ramadan — নূরে রমজান
+### 🌙 Noor-e-Ramadan 
 > A full-stack Ramadan companion app — Sehri/Iftar timings, Duas, Recipes, and personal dashboard for the Muslim community of Bangladesh.
 
 **Tech Stack:** Next.js 15 · MongoDB Atlas · Tailwind CSS · Framer Motion · NextAuth.js  
-[🔗 View Repository](https://github.com/nishatjahan62/noor-e-ramadan) · [🌐 Live Demo](https://noor-e-ramadan-vert.vercel.app/)
+[🔗 View Repository](https://github.com/nishatjahan62/noor-e-ramadan)
 
 ---
 
@@ -140,13 +145,12 @@ I build responsive and efficient web applications with a focus on seamless UI an
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+| <img src="https://skillicons.dev/icons?i=typescript" width="48"/> <br/> TypeScript | <img src="https://skillicons.dev/icons?i=figma" width="48"/><br/>Figma |
+|:---:|:---:|
 
 </div>
 
-- 🔷 Exploring **Next.js** and **TypeScript** deeply
+- 🔷 Deep diving into **TypeScript**
 - 🏖️ Developing a **Tourism Website**
 - 🔌 Learning **REST API best practices**
 - 🎨 Enhancing **UI/UX designs with Figma**
@@ -154,5 +158,5 @@ I build responsive and efficient web applications with a focus on seamless UI an
 ---
 
 <div align="center">
-  <b>✨ Let's build something great together! ✨</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Let's+build+something+great+together!+✨;Open+to+collaborations+%26+freelance+🤝;Always+learning%2C+always+growing+🌱" alt="Typing SVG" />
 </div>
