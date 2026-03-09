@@ -129,14 +129,6 @@ I build responsive and efficient web applications with a focus on seamless UI an
 
 ---
 
-### 🌿 GroveGardener
-> Cultivating connections through green wisdom.
-
-**Tech Stack:** React · Node.js · Express · MongoDB  
-[🔗 View Repository](https://github.com/nishatjahan62/Grove-Gardener-project)
-
----
-
 ## 🌱 Currently Learning
 
 <div align="left">
