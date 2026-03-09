@@ -5,10 +5,10 @@
 
 <!-- Name & Title -->
 <h2 align="center">
-  Hi, I'm <span style="color:#00BFFF;"><b>Nishat Jahan</b></span> 👋
+  Hi, I'm <span style="color:#430373;"><b>Nishat Jahan</b></span> 👋
 </h2>
 <h3 align="center">
-  A passionate <span style="color:#ff6600;"><b>Junior Full-Stack Web Developer</b></span> 
+ <span style="color:#ff6600;"><b>Junior Full-Stack Web Developer</b></span> 
 </h3>
 <p align="center" style="font-size:18px;">
   🌍 Based in <b>Bangladesh</b> <br/>
@@ -28,14 +28,24 @@
 </p>
 
 <!-- Contact Buttons -->
-<p align="center" style="margin-top:15px;">
-  <a href="mailto:nishatjahanposhpa@gmail.com" style="margin: 0 8px;">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/nishatjahan62" style="margin: 0 8px;">
-    <img src="https://img.shields.io/github/followers/nishatjahan62?label=Follow&style=for-the-badge"/>
-  </a>
-</p>
+🤝 Connect With Me
+<div align="center">
+<a href="https://github.com/nishatjahan62">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://facebook.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="25" alt="Facebook"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:nishatjahanposhpa@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="25" alt="Email"/>
+</a>
+</div>
 
 
 ---
