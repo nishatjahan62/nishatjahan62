@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nishat+Jahan+%F0%9F%91%8B;Junior+Full-Stack+Developer;Building+for+the+Web+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=2000&color=A855F7&center=true&vCenter=true&width=500&lines=Nishat+Jahan" alt="Nishat Jahan" />
 </div>
 
 <h3 align="center">✨ Junior Full-Stack Web Developer · Bangladesh 🇧🇩 ✨</h3>
@@ -44,19 +44,19 @@ I build responsive and efficient web applications with a focus on seamless UI an
 <div align="center">
 
 <a href="https://github.com/nishatjahan62">
-  <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=github" width="60" alt="GitHub"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="60" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://facebook.com">
-  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&logoWidth=40" height="48" alt="Facebook"/>
+  <img src="https://img.shields.io/badge/--%231877F2?style=flat-square&logo=facebook&logoColor=white" height="60" alt="Facebook"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:nishatjahanposhpa@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="60" alt="Email"/>
 </a>
 
 </div>
@@ -66,57 +66,7 @@ I build responsive and efficient web applications with a focus on seamless UI an
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=html" width="48"/><br/>HTML5
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=css" width="48"/><br/>CSS3
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=js" width="48"/><br/>JavaScript
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=react" width="48"/><br/>React
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br/>Next.js
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>Tailwind CSS
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>Node.js
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=express" width="48"/><br/>Express.js
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/>MongoDB
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=git" width="48"/><br/>Git
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=github" width="48"/><br/>GitHub
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/>VS Code
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=figma" width="48"/><br/>Figma
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,figma" />
 </div>
 
 ---
