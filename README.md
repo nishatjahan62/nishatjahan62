@@ -51,11 +51,11 @@ I build responsive and efficient web applications with a focus on seamless UI an
   <img src="https://img.icons8.com/ios-filled/60/ffffff/github.png" width="30" alt="GitHub"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com">
+<a href="https://www.facebook.com/nishatjahan62">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://facebook.com">
+<a href="https://www.linkedin.com/in/nishatjahan62">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30" alt="Facebook"/>
 </a>
 &nbsp;&nbsp;
