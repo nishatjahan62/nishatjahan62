@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/RTpLpP6v/image.png" alt="Banner" width="100%" style="border-radius:12px;"/>
+  <img src="https://i.ibb.co.com/LXDCVzWS/Nishat-Jahan-3.jpg" alt="Banner" width="100%" style="border-radius:12px;"/>
 </div>
 
 <br/>
@@ -8,8 +8,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Nishat+Jahan" alt="Nishat Jahan" />
 </div>
 
+
 <h3 align="center">✨ Junior Full-Stack Web Developer · Bangladesh 🇧🇩 ✨</h3>
-<p align="center">📫 nishatjahanposhpa@gmail.com</p>
+<p align="center">
+  <a href="mailto:nishatjahanposhpa@gmail.com">📫 nishatjahanposhpa@gmail.com</a>
+</p>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nishatjahan62&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -55,6 +59,10 @@ I build responsive and efficient web applications with a focus on seamless UI an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30" alt="Facebook"/>
 </a>
 &nbsp;&nbsp;
+<a href="https://t.me/nishatjahan62">
+  <img src="https://img.icons8.com/color/48/telegram-app.png" width="30" alt="Telegram"/>
+</a>
+&nbsp;&nbsp;
 <a href="mailto:nishatjahanposhpa@gmail.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" alt="Email"/>
 </a>
@@ -84,7 +92,7 @@ I build responsive and efficient web applications with a focus on seamless UI an
 **🗄️ Database & Tools**
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mongoose,git,github,vscode,figma" />
 </div>
 
 ---
