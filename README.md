@@ -9,9 +9,11 @@
 </div>
 
 
-<h3 align="center">✨ Junior Full-Stack Web Developer · Bangladesh 🇧🇩 ✨</h3>
+<h3 align="center">✨ Junior Full-Stack Web Developer · Bangladesh | Chattogram ✨</h3>
 <p align="center">
   <a href="mailto:nishatjahanposhpa@gmail.com">📫 nishatjahanposhpa@gmail.com</a>
+  &nbsp;|&nbsp;
+  <a href="https://nishat-jahan-portfolio.netlify.app/">🌐 Portfolio</a>
 </p>
 
 
@@ -31,10 +33,10 @@
 
 ---
 
-## 👩‍💻 About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
-Hi! I'm **Nishat Jahan**, a passionate **Junior Full-Stack Web Developer** from Bangladesh.  
-I build responsive and efficient web applications with a focus on seamless UI and meaningful user experiences.
+
+Hi! I'm **Nishat Jahan**, a Dedicated **Junior Full-Stack Web Developer** from Bangladesh.I build responsive and efficient web applications with a focus on seamless UI and meaningful user experiences.
 
 - 🌱 Currently learning **TypeScript**
 - 🚀 Dreaming to work on impactful real-world projects
@@ -42,8 +44,7 @@ I build responsive and efficient web applications with a focus on seamless UI an
 - 💡 Always curious, always building
 
 ---
-
-## 🤝 Connect With Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="20" /> Connect With Me
 
 <div align="center">
 
@@ -71,7 +72,7 @@ I build responsive and efficient web applications with a focus on seamless UI an
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"> Tech Stack
 
 **💡 Frontend**
 
@@ -97,17 +98,28 @@ I build responsive and efficient web applications with a focus on seamless UI an
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="20" /> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishatjahan62&show_icons=true&theme=tokyonight&border_radius=10" height="160"/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nishatjahan62&show_icons=true&theme=tokyonight&border_radius=12&border_color=A855F7&title_color=A855F7&icon_color=A855F7&ring_color=A855F7" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nishatjahan62&show_icons=true&theme=tokyonight&border_radius=12&border_color=A855F7&title_color=A855F7&icon_color=A855F7&ring_color=A855F7" height="170"/>
+  </picture>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishatjahan62&layout=compact&theme=tokyonight&border_radius=10" height="160"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nishatjahan62&layout=compact&theme=tokyonight&border_radius=12&border_color=A855F7&title_color=A855F7" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishatjahan62&layout=compact&theme=tokyonight&border_radius=12&border_color=A855F7&title_color=A855F7" height="170"/>
+  </picture>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishatjahan62&theme=tokyonight&border_radius=10" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishatjahan62&theme=tokyonight&border_radius=12&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" height="170"/>
 </div>
+
+
+
 
 ---
 
@@ -150,7 +162,8 @@ I build responsive and efficient web applications with a focus on seamless UI an
 - 🔌 Learning **REST API best practices**
 - 🎨 Enhancing **UI/UX designs with Figma**
 
----
 
 ---
-<p align="center">✨ Let's build something great together! 🤝 </p>
+**✨ Thanks for visiting! Let's build something great together! 🤝**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Open+to+work+%F0%9F%92%BC;Available+for+freelance+%F0%9F%8C%8D;Let's+collaborate+%F0%9F%A4%9D" alt="Footer Typing" />
