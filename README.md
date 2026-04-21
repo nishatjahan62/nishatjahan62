@@ -164,6 +164,8 @@ Hi! I'm **Nishat Jahan**, a Dedicated **Junior Full-Stack Web Developer** from B
 
 
 ---
+<div align="center">
 **✨ Thanks for visiting! Let's build something great together! 🤝**
-
+<br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Open+to+work+%F0%9F%92%BC;Available+for+freelance+%F0%9F%8C%8D;Let's+collaborate+%F0%9F%A4%9D" alt="Footer Typing" />
+</div>
