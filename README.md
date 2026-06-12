@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I%27m+Nishat+Jahan;Jr.+Full-Stack+Developer+%F0%9F%92%BB;Backend+Focused+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I%27m+Nishat+Jahan" alt="Typing SVG" />
 </div>
 
 <h3 align="center">✨ Junior Full-Stack Developer · Backend Focused · Bangladesh | Chattogram ✨</h3>
@@ -37,8 +37,8 @@
 
 Hi! I'm **Nishat Jahan** — a **Junior Full-Stack Developer** working with the **MERN stack** (MongoDB, Express.js, React, Node.js), Next.js, and TypeScript — currently focused on building an **engineering mindset** and strengthening my **backend architecture** skills with Node and Express.
 
-- 🟢 **Currently:** Building real-world full-stack projects while deep-diving into backend architecture and growing my engineering mindset.
-- 🎯 **My Focus:** Designing REST APIs, writing clean server-side logic, and connecting it seamlessly with intuitive frontends.
+- 🟢 **Currently:** Deep-diving into backend architecture and growing my engineering mindset.
+- 🎯 **My Focus:** Designing REST APIs, writing clean server-side logic, and connecting it seamlessly with intuitive frontend.
 - 🌱 **Currently:** Deep-diving into backend architecture with Node and Express.
 - 🤝 Open to collaborations and freelance opportunities
 
